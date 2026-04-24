@@ -4,4 +4,4 @@ i made this with [kritarth](https://www.linkedin.com/in/kritarth-lohomi-a754a319
 
 it was a fun time and I am making this repo a public archive now.
 
-P.S this was also the start of people search in @asentapp
+P.S this was also the start of people search in [@asentapp](https://github.com/asentapp)
